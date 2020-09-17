@@ -1,0 +1,38 @@
+{
+  "TexAS": [
+    {
+      "speaker": "Fred Zhang",
+      "command": "NBC"
+    },
+    {
+      "speaker": "Fred Zhang",
+      "command": "NBC"
+    },
+    {
+      "speaker": "Fred Zhang",
+      "command": "NBC"
+    }
+  ],
+  "califorNIA": [
+    {
+      "speaker": "Thomas Brown",
+      "command": "NBC"
+    },
+    {
+      "speaker": "Alisha Brown",
+      "command": "Turn oFF the TV"
+    },
+    {
+      "speaker": "Marcus Brown",
+      "command": "Turn off the TV"
+    },
+    {
+      "speaker": "Missy Brown",
+      "command": "Turn ofF the TV"
+    },
+    {
+      "speaker": "Missy Brown",
+      "command": "TuRN off the TV"
+    }
+  ]
+}
